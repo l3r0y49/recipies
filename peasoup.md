@@ -3,4 +3,5 @@
 - onions   £2
 - potatoes £3
 # Instructions
-Shell the peas
+- Shell the peas
+- Put peas into pan
