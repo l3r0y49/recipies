@@ -3,3 +3,4 @@
 - onions   £2
 - potatoes £3
 # Instructions
+Cook peas
